@@ -1,2 +1,2 @@
-# leaflet-challenge
-Leaflet JavaScript Visualization with Map Box and USGS GeoJSON Earthquake data - Boot Camp homework
+# Public facing earthquake map
+Leaflet JavaScript Visualization with Map Box and USGS GeoJSON Earthquake data

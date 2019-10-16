@@ -1,0 +1,141 @@
+{
+    "type": "FeatureCollection",
+    "metadata": {
+    "generated": 1570236164000,
+    "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/significant_week.geojson",
+    "title": "USGS Significant Earthquakes, Past Week",
+    "status": 200,
+    "api": "1.8.1",
+    "count": 3
+    },
+    "features": [
+    {
+    "type": "Feature",
+    "properties": {
+    "mag": 5,
+    "place": "71km WNW of Talkeetna, Alaska",
+    "time": 1570192083205,
+    "updated": 1570236081828,
+    "tz": -540,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak019cqb6c9o",
+    "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/ak019cqb6c9o.geojson",
+    "felt": 549,
+    "cdi": 4.9,
+    "mmi": 3.74,
+    "alert": "green",
+    "status": "reviewed",
+    "tsunami": 1,
+    "sig": 654,
+    "net": "ak",
+    "code": "019cqb6c9o",
+    "ids": ",at00pyunyq,ak019cqb6c9o,us70005qnc,",
+    "sources": ",at,ak,us,",
+    "types": ",dyfi,geoserve,ground-failure,impact-link,losspager,moment-tensor,oaf,origin,phase-data,shakemap,",
+    "nst": null,
+    "dmin": null,
+    "rms": 0.59,
+    "gap": null,
+    "magType": "mww",
+    "type": "earthquake",
+    "title": "M 5.0 - 71km WNW of Talkeetna, Alaska"
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -151.52,
+    62.4784,
+    90.7
+    ]
+    },
+    "id": "ak019cqb6c9o"
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "mag": 6.7,
+    "place": "69km WSW of Constitucion, Chile",
+    "time": 1569772673229,
+    "updated": 1570128754208,
+    "tz": -300,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us70005nie",
+    "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us70005nie.geojson",
+    "felt": 416,
+    "cdi": 5.9,
+    "mmi": 6.25,
+    "alert": "green",
+    "status": "reviewed",
+    "tsunami": 1,
+    "sig": 936,
+    "net": "us",
+    "code": "70005nie",
+    "ids": ",at00pyloci,pt19272001,us70005nie,",
+    "sources": ",at,pt,us,",
+    "types": ",dyfi,geoserve,ground-failure,impact-link,impact-text,losspager,moment-tensor,origin,phase-data,shakemap,",
+    "nst": null,
+    "dmin": 1.269,
+    "rms": 0.65,
+    "gap": 98,
+    "magType": "mww",
+    "type": "earthquake",
+    "title": "M 6.7 - 69km WSW of Constitucion, Chile"
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    -73.1635,
+    -35.4759,
+    11
+    ]
+    },
+    "id": "us70005nie"
+    },
+    {
+    "type": "Feature",
+    "properties": {
+    "mag": 6.2,
+    "place": "84km SSE of Pondaguitan, Philippines",
+    "time": 1569722572085,
+    "updated": 1570113550760,
+    "tz": 480,
+    "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us70005nbb",
+    "detail": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/detail/us70005nbb.geojson",
+    "felt": 64,
+    "cdi": 6.1,
+    "mmi": 4.238,
+    "alert": "green",
+    "status": "reviewed",
+    "tsunami": 0,
+    "sig": 630,
+    "net": "us",
+    "code": "70005nbb",
+    "ids": ",us70005nbb,",
+    "sources": ",us,",
+    "types": ",dyfi,geoserve,ground-failure,losspager,moment-tensor,origin,phase-data,shakemap,",
+    "nst": null,
+    "dmin": 1.676,
+    "rms": 1.05,
+    "gap": 25,
+    "magType": "mww",
+    "type": "earthquake",
+    "title": "M 6.2 - 84km SSE of Pondaguitan, Philippines"
+    },
+    "geometry": {
+    "type": "Point",
+    "coordinates": [
+    126.5476,
+    5.6882,
+    76.08
+    ]
+    },
+    "id": "us70005nbb"
+    }
+    ],
+    "bbox": [
+    -151.52,
+    -35.4759,
+    11,
+    126.5476,
+    62.4784,
+    90.7
+    ]
+    }
